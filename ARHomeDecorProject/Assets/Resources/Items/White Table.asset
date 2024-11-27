@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 206895d44920f414fbda54a0c65ccaa5, type: 3}
+  m_Name: White Table
+  m_EditorClassIdentifier: 
+  price: 80
+  itemPrefab: {fileID: 4724430437903091801, guid: 3ce085dbf36ad924fb17f5a28ab99ddb, type: 3}
+  itemImage: {fileID: 21300000, guid: d608f2afd72dfee478a0ef9b975502bb, type: 3}

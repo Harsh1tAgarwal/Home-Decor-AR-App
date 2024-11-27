@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 206895d44920f414fbda54a0c65ccaa5, type: 3}
+  m_Name: Wood Chair
+  m_EditorClassIdentifier: 
+  price: 30
+  itemPrefab: {fileID: 2060653193259133062, guid: a9a157cd69195dc4788c25dd7da55be9, type: 3}
+  itemImage: {fileID: 21300000, guid: c7255b58e9aca9245a01b2c2f941e0db, type: 3}
